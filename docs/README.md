@@ -40,3 +40,9 @@ square.perimeter(7)
 
 triangle.area(6, 7)
 triangle.perimeter(1, 2, 3)
+
+## История изменений
+
+* 4fcf322 added documentation in files
+* dbe644b fixed error in rectangle.py
+* 8b15c06 added new file rectangle.py
