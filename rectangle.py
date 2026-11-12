@@ -12,7 +12,7 @@ def area(a, b):
     Пример:
         area(3, 4)  # 12
     """
-    return a * b + 1;
+    return a * b;
 
 
 def perimeter(a, b):
